@@ -1,4 +1,10 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).<br><br>
+<h1>#Output</h1>
+
+
+
+https://github.com/Priyanka28k/DrawerNavigation/assets/104508277/0f88da6a-9bb5-483b-aa09-e2f4af8d46e5
+
 
 # Getting Started
 
@@ -26,7 +32,9 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 
 ```bash
 # using npm
-npm run android
+npm run android 
+# OR
+npx react-native run-android
 
 # OR using Yarn
 yarn android
